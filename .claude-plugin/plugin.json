@@ -5,8 +5,8 @@
   "author": {
     "name": "Anand Rajanand"
   },
-  "homepage": "https://github.com/<your-username>/mcp-stack",
-  "repository": "https://github.com/<your-username>/mcp-stack",
+  "homepage": "https://github.com/anand2426/mcp-stack",
+  "repository": "https://github.com/anand2426/mcp-stack",
   "license": "MIT",
   "keywords": ["mcp", "model-context-protocol", "claude-code", "plugin", "developer-tools", "code-review"]
 }
