@@ -1,0 +1,15 @@
+[project]
+name = "__SERVER_NAME__"
+version = "0.1.0"
+description = "An MCP server scaffolded by mcp-stack."
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+]
+
+[project.scripts]
+__SERVER_NAME__ = "__SERVER_NAME__.server:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"

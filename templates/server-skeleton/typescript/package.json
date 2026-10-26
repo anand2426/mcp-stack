@@ -1,0 +1,22 @@
+{
+  "name": "__SERVER_NAME__",
+  "version": "0.1.0",
+  "description": "An MCP server scaffolded by mcp-stack.",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "__SERVER_NAME__": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "tools:export": "node dist/export-tools.js > tools.json"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "mcp-stack",
+  "version": "0.1.0",
+  "description": "Pre-flight checklist and lifecycle toolkit for building and publishing MCP servers: scaffold, lint tool schemas, review security/permissions, run live eval tests, publish, and canary-check afterward.",
+  "author": {
+    "name": "Anand Rajanand"
+  },
+  "homepage": "https://github.com/<your-username>/mcp-stack",
+  "repository": "https://github.com/<your-username>/mcp-stack",
+  "license": "MIT",
+  "keywords": ["mcp", "model-context-protocol", "claude-code", "plugin", "developer-tools", "code-review"]
+}
